@@ -10,7 +10,7 @@ konu: bir şekerleme dükkanının çok işlevli uygulaması
 ## XOX: 2 moda sahip xox oyunu
 konu: en fazla 2 kişi ile oynanan bir xox oyunu. bilgisayara karşı oynanabilir!. iyi eğlenceler.
 
-[Repo Linki](https://github.com/f6c5/xox)
+[Repo Linki](https://github.com/f6c5/csharpxox)
 
 ## Eşini bul: eşleştirme oyunu
 konu: en fazla 2 kişi ile oynanan bir eşleştirme oyunu. bilgisayara karşı oynanabilir!. iyi eğlenceler.
